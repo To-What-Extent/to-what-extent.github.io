@@ -1,0 +1,76 @@
+title: Princeton University Graduate Students Against UE
+description: Questioning the unionization of Princeton University's graduate students
+theme: just-the-docs
+url: https://pu-grads-against-ue.org
+
+# Use custom color scheme
+color_scheme: towhatextent
+
+# Callout setting
+callouts:
+  note:
+    title: Note
+    color: yellow
+  conclusion:
+    title: Conclusion
+    color: orange
+  important:
+    title: Important
+    color: red
+  question:
+    color: grey-lt
+
+# Use custom footer
+footer_content: "<i>The opinions expressed on this website are those of the authors and do not reflect the views of any other entity.</i><br>Copyright &copy; 2024 To What Extent. All rights reserved."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%F" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Enable or disable the site search
+# Supports true (default) or false
+# search_enabled: false
+
+# Fix HTML Compression
+compress_html:
+  blanklines: true
+
+# Collections
+collections:
+  politics:
+    output: true
+    permalink: /politics/:path
+
+# Configure just_the_docs for collections
+just_the_docs:
+  collections:
+    politics:
+      title: Union Politics
+      description: 
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+disqus:
+  shortname: to-what-extent
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# External navigation links
+nav_external_links:
+  - title: Daily Princetonian Op-Ed
+    url: https://www.dailyprincetonian.com/article/2023/03/princeton-pgsu-cost-downsides-unionization
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Cornell United
+    url: https://sites.google.com/view/cornell-united/cgsu-ue-info/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: UE Not For MIT
+    url: https://uenotformit.org/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
