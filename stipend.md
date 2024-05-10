@@ -4,7 +4,7 @@ title: "Stipend"
 nav_order: 3
 comments: true
 has_toc: true
-last_modified_date: 2024-05-06
+last_modified_date: 2024-05-10
 ---
 # Stipend
 {: .no_toc }
@@ -58,8 +58,16 @@ Contrary to PGSU's claims, Princeton has consistently increased the stipend for 
 *Biology Ph.D. Stipend Data retrieved 2024-05-07[^biologystipend]*
 {: .fs-3 .text-center }
 
+Union also cannot guarantee that the stipend increase will be higher than the historical average. Based on the [MIT equivalence of their priority committee report](https://gsc.mit.edu/committees/hca/cost-of-living/), right before unionization in AY22-23 graduate students received a [9% increase](https://grad-union.mit.edu/issues/mits-response-to-the-gsus-economic-proposal/) from the [7.4% recommendation](https://drive.google.com/file/d/1Q7_qZLDId9fN4MleDO82r181pw9WnhRb/view). Even before this, they were getting 4.5% average over 5 years.
+
+Now, with the union they are getting only a 3.5% raise for the next two years. Their initial increase of 5.4% (equivalent to 3.96% after union dues) is still under their previous 5-year average.
+
+![MIT GSC Stipends Committee 2022 Report](/assets/images/mitreport.png)
+*MIT GSC Stipends Committee 2022 Report retrieved 2024-05-09[^mitreport]*
+{: .fs-3 .text-center }
+
 {: .conclusion }
-There is no guarantee that we can get a higher stipend increase rate through unionization in Princeton, as evidence from other universities suggest otherwise.
+There is no guarantee that we can get a higher stipend increase rate through unionization in Princeton, as evidences from other universities suggest otherwise.
 
 ## Funding Sources and Limitations
 
@@ -125,3 +133,4 @@ For completeness, we will discuss the growth of external fellowship stipends, pa
 [^puniinfo]: [Information about Gradute Student Unionization - The Graduate School Princeton](https://gradschool.princeton.edu/unionization)
 [^p24]: [Trustees set 2024-25 budget, increasing spending for undergraduate financial aid and graduate student support](https://www.princeton.edu/news/2024/03/29/princeton-trustees-set-2024-25-budget-increasing-spending-undergraduate-financial)
 [^NIHLimit]: [Article 2.3.7.9 - NIH Grant Policy Statement](https://grants.nih.gov/grants/policy/nihgps/HTML5/section_2/2.3.7_policies_affecting_applications.htm#Graduate)
+[^mitreport]: [MIT GSC Stipends Committee 2022 Report](https://drive.google.com/file/d/1Q7_qZLDId9fN4MleDO82r181pw9WnhRb/view)
