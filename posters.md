@@ -14,4 +14,4 @@ You can download the posters below and print them out to share with your friends
 
 All of the posters data have been reviewed by our team of graduate students. Additional data courtesy of [Cornell United](https://sites.google.com/view/cornell-united/).
 
-If you have any questions or concerns, please feel free to reach out to us at [pu-grads-against-ue[at]gmail.com](mailto:pu-grads-against-ue@gmail.com).
+If you have any questions or concerns, please feel free to reach out to us at [pugradsagainstue[at]gmail.com](mailto:pugradsagainstue@gmail.com).
