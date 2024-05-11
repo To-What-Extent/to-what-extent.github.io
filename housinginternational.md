@@ -23,7 +23,7 @@ last_modified_date: 2024-05-06
 {: .conclusion }
 Housing is not a labor issue and is never a part of the collective bargaining.
 
-One of the main misinformation spread by PGSU is that they can address the housing issue. In all of their correspondence, they have implied that the union can help address housing concerns. However, when you read the **Management and Academic Rights** in existing graduate student unions' ratified contracts, it is clear that the universities retain the sole right to manage housing matters.
+One of the main pieces of misinformation spread by PGSU is that they can address the housing issue. In all of their correspondence, they have implied that the union can help address housing concerns. However, when you read the **Management and Academic Rights** in existing graduate student unions' ratified contracts, it is clear that the universities retain the sole right to manage housing matters.
 
 Below are the relevant sections confirming that the universities retain the right to manage housing matters:
 
