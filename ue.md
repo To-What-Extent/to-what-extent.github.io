@@ -76,7 +76,7 @@ Other graduate student unions operate under an **open shop** model, meaning that
 | Harvard HGSU-UAW | UAW | Open Shop | 1.44% | - |
 | Columbia GWC-UAW | UAW | Open Shop | 1.44% | - |
 | University of California UAW 2865 | UAW | Open Shop | 1.65% | - |
-| NYU GSOC-UAW | UAW | Open Shop | 1.44% | - |
+| NYU GSOC-UAW | UAW | Union Shop | 2% | 2% |
 | UMich GEO-AFT | AFT | Open Shop | 1.65% | - |
 | Rutgers AAUP-AFT | AFT | Open Shop | 0.8% | - |
 | MIT GSU-UE | UE | Union Shop | 1.44% | 1.44% |
