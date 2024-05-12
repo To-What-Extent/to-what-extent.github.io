@@ -7,6 +7,37 @@ comments: false
 last_modified_date: 2024-05-06
 ---
 # Princeton University Graduate Students Against UE
+
+## Grad Students Say VOTE NO on PGSU & UE
+
+Your grad student colleagues urge you to VOTE NO on PGSU & United Electrical Workers (UE) on election day. 
+
+Voting takes place 9am-1pm and 2pm-6pm on Monday 5/13 and Tuesday 5/14 in the Frist Campus Center (Rm 302) - your vote could easily be decisive. 
+
+Vote NO because:
+
+##### [United Electrical Workers (UE) is not a good choice for Princeton.](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.jl5uwwcwl014)
+1. [Our postdocs have an opt-in UAW union, but UE forces every grad to pay ~$700/yr.](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.jl5uwwcwl014)
+1. [UE will use our money and reputation to support divisive politics.](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.izqu0g5392rl)
+1. [UE is broke and relying on graduate students for a bail-out](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.sd4t845q4uxp)
+
+##### [Unionization with PGSU-UE is not worth the cost at Princeton](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.fsuxy5minvjw).
+1. [Our salaries are higher and grow faster than UE unions](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.9316q54j0sp6)
+1. [No union has negotiated changes to university housing](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.kl2l94tnkezf)
+1. [Princeton supports their graduate students, even during crises](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.rzcreuybbo9i)
+1. [Princeton non-financial benefits are already very strong](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.mta3m962b0)
+
+##### [PGSU has failed to create informed consensus.](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.2dzoo97787rp)
+1. [PGSU canvassing caused widespread concern on campus](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.nhiqxl1rzh4v)
+1. [We learned important information about UE only 4 days before the election](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.6k4k0hqpaj3v)
+1. [PGSU has not been communicating with graduate students in good faith](https://docs.google.com/document/d/1c-BotpGXjh2nuRkWzTKfilcH1LcvWdEPxkg3f7R-NXM/edit#heading=h.stpkhyf3wanf)
+
+Regardless of your views on unions generally: consider if this United Electrical Workers union is right for every Princeton grad student. If it passes, it will be [very hard](https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees/decertification-election) to go back. If you are unsure, or if any of this concerns you, please read more and vote NO.
+
+Please join [#open-union-discussion](https://join.slack.com/t/gsgglobalworkspace/signup) and read the pages of this website and those of grads at [Cornell](https://sites.google.com/view/cornell-united/home?authuser=0) and [MIT](https://www.uenotformit.org/). 
+
+
+## Your peers have extensively researched the facts of this election
 {: .fs-7 .fw-800 }
 
 To what extent\
